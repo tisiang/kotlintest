@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">KotlinTest</string>
+    <string name="textfield_phone">Phone</string>
+    <string name="textfield_email">Email</string>
+    <string name="textfield_password">Password</string>
+    <string name="Button_Go">Go</string>
+</resources>
